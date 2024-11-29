@@ -49,7 +49,7 @@ G. T. Bloomfield, British Electricity History (https://www.britelechist.uoguelph
 ## Maps Generated
 
 Map visualisation of the Index to the Parsons & Co. Machine Order Book
-<iframe width="100%" height="488" frameborder="0" title="Felt Map" src="https://felt.com/embed/map/Untitled-Map-wDo8M65nQMWgOoX9CpcOUhD?loc=25.94%2C28.9%2C3.24z&legend=1&cooperativeGestures=1&link=1&geolocation=0&zoomControls=1&scaleBar=1" referrerpolicy="strict-origin-when-cross-origin"></iframe>
+<iframe width="100%" height="488" frameborder="0" title="Felt Map" src="https://felt.com/embed/map/Index-to-Parsons-Order-Book-1895-1924-wDo8M65nQMWgOoX9CpcOUhD?loc=18.31%2C22.2%2C2z&legend=1&cooperativeGestures=1&link=1&geolocation=0&zoomControls=1&scaleBar=1" referrerpolicy="strict-origin-when-cross-origin"></iframe>
 
 Map visualisation showing the Parsons Order book datapoints in Newcastle within the context of energy related entries in the Historic Environment Records dataset and the Historic England Listed Buildings dataset
 <iframe width="100%" height="488" frameborder="0" title="Felt Map" src="https://felt.com/embed/map/Parsons-Orders-in-the-Context-of-Historic-England-and-Historic-Environment-Records-datasets-JuokwiI7Ss6UF9BvK3y5prC?loc=54.9717%2C-1.5622%2C11.62z&legend=1&cooperativeGestures=1&link=1&geolocation=0&zoomControls=1&scaleBar=1" referrerpolicy="strict-origin-when-cross-origin"></iframe>
