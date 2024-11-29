@@ -46,5 +46,10 @@ G. T. Bloomfield, British Electricity History (https://www.britelechist.uoguelph
 1. Dataset of orders placed at the Parsons & Co. company from 1895 to 1924 (client name, client location, order date)
 2. Map of distribution of historic power stations based on Bloomfield's British Electricity History
 
+## Maps Generated
+
+Map visualisation of the Index to the Parsons & Co. Machine Order Book
+<iframe width="100%" height="488" frameborder="0" title="Felt Map" src="https://felt.com/embed/map/Untitled-Map-wDo8M65nQMWgOoX9CpcOUhD?loc=25.94%2C28.9%2C3.24z&legend=1&cooperativeGestures=1&link=1&geolocation=0&zoomControls=1&scaleBar=1" referrerpolicy="strict-origin-when-cross-origin"></iframe>
+
 ## Licence 
 This work is licensed under a [Creative Commons Attribution 4.0 License - CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
