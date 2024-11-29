@@ -1,0 +1,231 @@
+﻿HER Number,Site Name,Site Type (Specific),Latitude,Longitude
+1625,"Dunston, Dunston Power Station",Power Station,54.960169,-1.6596797
+1705,Stella South Power Station,Power Station,54.973646,-1.7303338
+1710,"Sunderland, Power Station",Power Station,54.909797,-1.3932323
+1723,"South Hylton, Electricity Sub Station",Electricity Sub Station,54.90291,-1.4572747
+1911,"Newcastle, Melbourne Street, Tramway Generating Station",Power Station,54.972135,-1.6050596
+1912,"Wallsend, Carville A & B Generating Stations",Power Station,54.988674,-1.5301956
+4960,"Lemington, Power Station",Power Station,54.974503,-1.7122061
+5106,"Wallsend, Neptune Bank Power Station",Power Station,54.984119,-1.5374368
+5107,"Philadelphia, Generating Station",Power Station,54.861853,-1.4802597
+5132,"Walker, Entrance Lodge to Shipyard and electricity substation",Electricity Sub Station,54.976025,-1.5359675
+5133,"Ouseburn, Ouseburn Sub Station",Electricity Sub Station,54.972363,-1.5922476
+5134,"Jesmond, Forsyth Road/Brentwood Avenue, Sub Station",Electricity Sub Station,54.991559,-1.6092451
+5135,"Gosforth, Back Woodbine Avenue, Sub Station",Electricity Sub Station,55.005078,-1.6216213
+5152,"Newcastle, Pandon Dene, Power Station",Power Station,54.969978,-1.6047683
+7069,"Kenton, blast-protected electricity substation",Electricity Sub Station,55.000461,-1.6652794
+8437,"Blaydon Burn, electric power supply substation",Electricity Sub Station,54.962766,-1.727283
+8523,"Monkton, Monkton Lane, backland development",Electricity Sub Station,54.967534,-1.5020142
+9389,"Benton, Whitley Road, electricity substation",Electricity Substation,55.022582,-1.5380892
+9838,"Gosforth, Haddricks Mill roundabout, electricity substation",Electricity Sub Station,55.007078,-1.6006514
+10144,"Newcastle, Forth Banks, power station",Power Station,54.965791,-1.6162113
+12782,"Cleadon, Front Street, electricity substation",Electricity Sub Station,54.954491,-1.3995861
+14883,"Philadelphia, water cooling towers",Cooling Tower,54.862386,-1.4788507
+15065,"Newcastle, Forth Street, electricity substation",Electricity Sub Station,54.966603,-1.6172969
+15736,"Newcastle, Strawberry Place, electricity substation",Electricity Sub Station,54.975146,-1.6190905
+15747,"Hebburn, Hawthorn Leslie Shipyard, electricity substation",Electricity Sub Station,54.983251,-1.5222897
+15912,"Houghton-le-Spring, Houghton Road, electricity substation",Electricity Sub Station,54.847898,-1.4743653
+17276,"Walker, electric sub station",Electricity Sub Station,54.980294,-1.5479493
+1041,"Whitley Bay,The Old Engine",Engine House,55.066917,-1.4793294
+1120,"Longbenton, Engine House",Engine House,55.015029,-1.5610078
+1171,"Willington, Seatonburn Wagonway, Engine House",Engine House,55.015858,-1.4965678
+1173,"Willington, Cramlington Wagonway, Engine House",Engine House,55.009719,-1.4899211
+2026,"Percy Main, Engine House",Engine House,54.997871,-1.4719387
+2251,"Jarrow, Engine House",Engine House,54.985904,-1.4894416
+2295,"Jarrow, Engine House",Engine House,54.98513,-1.4764813
+2302,"West Boldon, Engine House",Engine House,54.933161,-1.4701332
+2526,"Sunderland, South Dock, Engine House",Engine House,54.911246,-1.3604545
+2677,"Fulwell, Engine House",Engine House,54.929991,-1.4063491
+2694,"Fulwell, Engine House",Engine House,54.929195,-1.3907558
+2868,"Sunderland, Engine House",Engine House,54.915573,-1.3630379
+2887,"Sunderland, South Dock, Engine House",Engine House,54.907731,-1.3584826
+2888,"Sunderland, South Dock, Engine House",Engine House,54.907188,-1.3577114
+2889,"Sunderland, South Dock, Engine House and Boiler House",Engine House,54.906195,-1.3569474
+2924,"Silksworth, Engine?",Engine House,54.872655,-1.424489
+3055,"Usworth, Engine House",Engine House,54.893585,-1.5041737
+3554,"Heworth, Engine House",Engine House,54.963434,-1.5331451
+3802,"Felling, Engine House",Engine House,54.955133,-1.5730594
+3867,"Low Eighton, Engine House",Engine House,54.916996,-1.5890631
+3879,"Eighton Banks, Engine House",Engine House,54.918626,-1.5665814
+3892,"Heworth, Engine House",Engine House,54.945172,-1.5517777
+3898,"Birtley, Bowes Railway, Black Fell Engine House",Engine House,54.912238,-1.5646222
+3983,"Walbottle, Engine House",Engine House,54.998344,-1.7242283
+4001,"West Brunton, Engine House",Engine House,55.033484,-1.6551478
+4058,"Scotswood, Pumping Engine",Engine House,54.973654,-1.6956528
+4166,"Byker, Engine House",Engine House,54.973095,-1.5700571
+4177,"Byker, Engine House",Engine House,54.971054,-1.5774208
+5595,"Felling, Friar's Goose, Engine House",Engine House,54.959366,-1.5756694
+6960,"Beamish Burn, engine house and windlass",Engine House,54.879445,-1.6503849
+7745,"Birtley, engine house",Engine House,54.893761,-1.5744879
+9106,"Cleadon Water Pumping Station, smithy or coal house",Engine House,54.965713,-1.3975445
+10459,"Newcastle, City Road, Quayside, engine house",Engine House,54.97156,-1.5939741
+10646,"Shieldfield, Electric Supply Works",Electricity Production Site,54.977527,-1.6048504
+12911,"Rowlands Gill, West Thornley Farm, engine and generator house",Generator House,54.926755,-1.7386052
+16642,"Hendon, South Dock, engine house",Engine House,54.910543,-1.3634292
+6961,"Beamish Burn, boilers",Boiler House,54.879428,-1.6506033
+8747,"Sandyford, Sandyford Road, boiler house for Sandyford Brewery",Boiler House,54.982094,-1.5999617
+15743,"Hebburn, Hawthorn Leslie Shipyard, boiler house",Boiler House,54.983532,-1.525099
+9290,"Brenkley, Seven Mile Farm, gingang",Horse Engine,55.070019,-1.6419931
+1575,"Hendon, Gas Works",Gas Works,54.892398,-1.3649625
+1586,"Gateshead, Redheugh Gasworks",Gas Works,54.954961,-1.6303678
+2056,"Tynemouth, Borough of Tynemouth Gas Works",Gas Works,55.010013,-1.434252
+2133,"North Shields, Gas Works",Gas Works,55.003014,-1.4563938
+2168,"Backworth, Gas Works",Gas Works,55.040865,-1.5253603
+2461,"South Shields, Gas Works",Gas Works,54.995817,-1.4347642
+2563,"Jarrow, Gas Works",Gas Works,54.975667,-1.4500452
+2724,"Monkwearmouth, Monkwearmouth Gas Works",Gas Works,54.911665,-1.3718346
+2814,"Ayres Quay, Sunderland Corporation Gas Works",Gas Works,54.912782,-1.3972431
+2829,"Bishopwearmouth, Gas Works",Gas Works,54.905562,-1.3909566
+3524,"Gateshead, Gas House",Gas House,54.965156,-1.586854
+3555,"Blaydon Burn, Gas Retort Works",Gas Works,54.95507,-1.7424815
+3615,"Houghton-le-Spring, Gas Works",Gas Works,54.8461,-1.4740772
+4114,"Elswick, Low Elswick Gas Works",Gas Works,54.961604,-1.6281204
+4131,"Newcastle, Forth Street, Manor Place Gas Works",Gas Works,54.966873,-1.6174505
+4375,"Gateshead, Gas Works",Gas Works,54.967363,-1.6021386
+4377,"Gateshead, Gas Works",Gas Works,54.964965,-1.6107526
+5487,"North Shields, Low Lights Gas Works",Gas Works,55.011272,-1.434547
+6980,Howdon Gas Works,Gas Works,54.994821,-1.4944865
+10614,"Newcastle, Manors, Gas Works",Gas Works,54.971962,-1.6069358
+11342,"Newcastle, Manors, Gas Works",Gas Works,54.972142,-1.6069341
+12458,"Whitburn Bents, gas works",Gas Works,54.944162,-1.36524
+13619,"Sunderland, Low Street, gas works",Gas Works,54.909686,-1.3713975
+15063,"Newcastle, South Street, Old Gas Works",Gas Works,54.968033,-1.6149403
+16191,"Bishopwearmouth, Hind Street, retort house",Retort House,54.905562,-1.3909566
+16411,"Walker, Mitchell Street, gas works",Gas Works,54.974704,-1.5430129
+4242,"West Brunton, Hydraulic Ram",Hydraulic Ram,55.025685,-1.6620973
+7292,"North Shields, Albert Edward Dock, accumulator tower",Hydraulic Accumulation Tower,54.995795,-1.4497701
+266,"Houghton-le-Spring, Houghton and Rainton mill",Watermill,54.825759,-1.487883
+327,Newbottle mill,Watermill,54.849149,-1.4938166
+368,Barmston mill(s),Watermill,54.903967,-1.4749767
+525,Crawcrook Mill,Watermill,54.979699,-1.7926345
+625,Clockburn mill,Watermill,54.934313,-1.7034409
+630,Ryton mill,Watermill,54.977542,-1.7630234
+649,"Ravensworth, mill",Watermill,54.928362,-1.6304555
+660,"Ravensworth, Blackburn Mill",Watermill,54.932315,-1.6301072
+666,"Kibblesworth, Moor Mill",Watermill,54.909131,-1.6017769
+667,Lamesley mill(s),Watermill,54.907096,-1.6116226
+692,Farnacres mill,Watermill,54.925163,-1.6426554
+697,Swalwell mill,Watermill,54.955829,-1.6829829
+710,Heworth watermill,Watermill,54.949828,-1.552288
+739,Marden watermill,Watermill,55.03759,-1.431986
+756,Flatworth mill,Watermill,54.995746,-1.4586804
+947,"South Shields, watermill",Watermill,54.995393,-1.4403972
+957,Boldon watermill,Watermill,54.95812,-1.4648079
+981,Hedworth watermill,Watermill,54.961407,-1.4767896
+1312,"Newburn, Thrusse or Thrush mill",Watermill,54.981378,-1.7364383
+1313,"Newburn, Laman or Laymedon mill",Watermill,54.981305,-1.7358919
+1320,"Throckley, Dewley Mill",Watermill,55.004967,-1.7537316
+1360,"Newcastle, Barras mill",Watermill,54.97935,-1.6129572
+1362,"Benwell, mill",Watermill,54.965672,-1.6672865
+1391,"South Gosforth, Haddrick's Mill",Watermill,55.00448,-1.6031787
+1402,Jesmond Old Mill/ Heaton Corn Mill/ Mable's Mill,Watermill,54.999075,-1.5991676
+1403,"Jesmond, medieval water mill",Watermill,54.987919,-1.5952156
+1655,"Blaydon Burn, Hobby's Dam",Dam,54.962416,-1.7316583
+2244,"Monkton, Dam",Dam,54.969711,-1.5071421
+2283,"Hedworth, Dam",Dam,54.959598,-1.4740021
+2301,"West Boldon, Dam",Dam,54.932712,-1.4701391
+3190,"East Rainton, Rainton Mill",Watermill,54.831175,-1.4725587
+3379,"Rowlands Gill, Dam",Dam,54.925619,-1.7537478
+3383,"Chopwell, Dam",Dam,54.911376,-1.7772316
+3431,"Blaydon Burn, Massey's Forge, mill pond and dam",Dam,54.965007,-1.724925
+3470,"Derwent Haugh, Turn Wheel",Water Wheel,54.958803,-1.686239
+3558,"Winlaton, Mill Race",Mill Race,54.954265,-1.7438919
+3584,"Winlaton, Low Dam",Dam,54.937125,-1.7143458
+3642,"Whickham, Mill Race",Mill Race,54.951544,-1.6942584
+3872,"Low Eighton, Dam",Dam,54.913745,-1.5844166
+3962,"Throckley, Throckley Mill (Dewley Mill)",Watermill,55.004878,-1.7540448
+3999,"West Brunton, Brunton Mill",Watermill,55.02248,-1.6729166
+4138,"Heaton, Mill Race",Mill Race,54.989974,-1.5917566
+4921,"Woolsington Park, cascade",Mill Race,55.024125,-1.6833832
+4939,"Newburn, Low Mill",Watermill,54.981116,-1.7359087
+4940,"Newburn, High Mill",Watermill,54.983816,-1.7374536
+5681,"Jesmond Dene, Busy Cottage Mill, mill race",Mill Race,54.990695,-1.5922182
+5704,"Jesmond Dene, weir",Weir,54.998996,-1.6024511
+5705,"Jesmond Dene, weir with sluice gate",Weir,54.999086,-1.6026066
+5750,"Jesmond Dene, weir and sluice gate",Weir,54.992587,-1.593762
+5751,"Jesmond Dene, weir and sluice gate",Weir,54.994027,-1.5945289
+5752,"Jesmond Dene, weir and sluice gate",Weir,54.995016,-1.5946753
+5753,"Jesmond Dene, weir",Weir,54.99655,-1.5965355
+5754,"Jesmond Dene, weir",Weir,55.000709,-1.6043101
+5756,"Jesmond Vale, weir",Weir,54.986995,-1.5877237
+5757,"Jesmond Vale, mill race",Mill Race,54.975782,-1.593619
+5760,"Jesmond Vale, weir",Weir,54.981975,-1.591369
+5991,"Blaydon Burn, mill race",Mill Race,54.962416,-1.7316583
+5992,"Blaydon Burn, Haggerstone's Mill, mill pond",Mill Pond,54.962417,-1.7324392
+6963,"Beamish Burn, dam",Dam,54.881924,-1.6467318
+8436,"Blaydon Burn, weir",Weir,54.961252,-1.7336963
+8445,"Blaydon Burn, weir",Weir,54.963398,-1.7289967
+8446,"Blaydon Burn, dam",Dam,54.963307,-1.7285288
+8447,"Blaydon Burn, sluice and weir",Weir,54.963483,-1.7268096
+8448,"Blaydon Burn, weir",Weir,54.963752,-1.7263393
+12082,"Lintzford, mill race",Mill Race,54.908752,-1.767576
+12383,"Gibside, leat and site of mill",Leat,54.930316,-1.7231329
+15742,"Hebburn, Hawthorn Leslie Shipyard, pump room",Pump House,54.983622,-1.5252542
+16804,"Shiney Row, Penshaw water mill",Watermill,54.86174,-1.4961516
+53,Southwick windmill,Windmill,54.922169,-1.4055281
+419,"Wearmouth, windmill",Windmill,54.90626,-1.388747
+679,Whickham windmill,Windmill,54.943852,-1.6735547
+715,Heworth windmill,Windmill,54.933895,-1.5645445
+738,"Tynemouth, Windmill",Windmill,55.015118,-1.4307397
+740,Billy Mill,Windmill,55.016207,-1.4729489
+805,Wallsend mill,Windmill,54.996918,-1.5310841
+948,"South Shields, windmill",Windmill,54.996285,-1.4388217
+958,Boldon windmill,Windmill,54.944387,-1.4482866
+962,Whitburn/Cleadon medieval windmill,Windmill,54.956117,-1.3659886
+969,Jarrow windmill,Windmill,54.97852,-1.4859417
+1029,Whitburn Windmill,Windmill,54.955488,-1.3659985
+1052,"Whitley Bay, Windmill",Windmill,55.052231,-1.4500926
+1199,"Tynemouth, Tomling's Windmill",Windmill,55.019289,-1.438657
+1332,"Mason, windmill",Windmill,55.051021,-1.660319
+1346,"Kenton, windmill",Windmill,55.002395,-1.6595415
+1382,"Byker, mill(s)",Windmill?,54.977965,-1.5750047
+1383,"Byker, Shelewood mill",Windmill,54.971727,-1.6010332
+1587,Cleadon Windmill,Windmill,54.96174,-1.3935434
+1588,"West Boldon, Boldon Mill",Windmill,54.944387,-1.4482866
+1693,"Shieldfield, windmill",Windmill,54.977967,-1.6021901
+2004,"Billy Mill, Billy Windmill",Windmill,55.015672,-1.4738943
+2151,"Whitley Bay, Wind Pump",Wind Pump,55.037237,-1.4531144
+2614,"Washington, Washington Mill",Windmill,54.906906,-1.5562577
+2697,"Fulwell, Fulwell Windmill",Windmill,54.928292,-1.3899892
+2699,"Monkwearmouth, Windmill",Windmill,54.919232,-1.3932464
+2755,"Southwick, Windmill",Windmill,54.921989,-1.4055308
+2824,"Bishopwearmouth, Millfield, Windmill",Windmill,54.906043,-1.3974997
+2853,"Bishopwearmouth, Windmill",Windmill,54.901369,-1.3972576
+2896,"Hendon, Windmill",Windmill,54.90084,-1.3638941
+2945,"Ryhope, Stoop Mill",Windmill,54.884393,-1.3636855
+2946,"Ryhope, Ryhope Mill",Windmill,54.882321,-1.362627
+2972,"Warden Law, Warden Law Windmill",Windmill,54.846897,-1.431552
+3104,"Penshaw, Penshaw Windmill",Windmill,54.869636,-1.4934043
+3169,"Houghton-le-Spring, Houghton Windmill",Windmill,54.848498,-1.4676608
+3492,"Gateshead, Windmill Hills, Windmill",Windmill,54.9576,-1.612073
+3494,"Gateshead, Windmill Hills, Windmill",Windmill,54.960109,-1.6097063
+3825,"Deckham, Windmill",Windmill,54.946735,-1.5871989
+3832,"Windy Nook, Heworth Windmill",Windmill,54.941053,-1.5813254
+4075,"Cowgate, Windmill",Windmill,54.989981,-1.6519261
+4097,"Elswick, Elswick Mill (Sinton's Mill)",Windmill,54.973234,-1.6406668
+4140,"Heaton, Windmill",Windmill,54.98573,-1.5857052
+4160,"Byker, Windmill",Windmill,54.978502,-1.5743741
+4186,"Walker, Windmill",Windmill,54.985516,-1.5505472
+4319,"Newcastle, Claremont Road, Chimney Mill",Windmill,54.983882,-1.6255707
+4438,"Sunderland, Covent Garden Post Mill",Windmill,54.907998,-1.375167
+4439,"Sunderland, Windmill, Hylton Road",Windmill,54.906279,-1.4088814
+4440,"Sunderland, Windmill, Hylton Road",Windmill,54.906279,-1.4088814
+4480,"Monkwearmouth, Windmill",Windmill,54.917797,-1.3759513
+4493,"South Shields, Windmill",Windmill,54.990465,-1.4434352
+4851,"Dinnington, site of windmill & cottage",Windmill,55.041188,-1.6791801
+5451,"Ouseburn, Stepney Bank, windmill",Windmill,54.974891,-1.5958152
+5484,"Ouseburn, Coney Close Windmill",Windmill,54.971734,-1.592254
+5609,"Gateshead, West Street, windmill",Windmill,54.961615,-1.6031324
+5610,"Gateshead, West Street, windmill",Windmill,54.960805,-1.6026719
+7833,"South Shields, Mill Dam, Windmill",Windmill,54.99394,-1.4371351
+8398,"Silksworth, Mill Hill",Windmill,54.871974,-1.4137464
+8407,"South Shields, windmill",Windmill,55.00435,-1.4340189
+10796,"Newcastle, New Mills, windmill",Windmill,54.977791,-1.6318769
+11321,"Newcastle, St. Andrew's Street, Nos. 66-70, windmill",Windmill,54.973437,-1.6187942
+11611,"Ryhope, Mill Hill, Ryhope Mill",Windmill,54.86559,-1.3767575
+11662,"Deckham, windmill",Windmill,54.947461,-1.589221
+16112,"Gateshead, Alexander Road, windmill mound",Windmill Mound,54.957763,-1.6069182
+16113,"Gateshead, Prince Consort Road, possible windmill mound",Windmill Mound,54.958553,-1.6011325
+16495,"Brunton, windmill",Windmill,55.020398,-1.667303
+16581,"Byker, Union Street, Union Mill",Windmill,54.975975,-1.5976791
+17123,"Hetton-le-Hole, Hetton Mill",Watermill,54.830963,-1.4650893
