@@ -46,13 +46,6 @@ G. T. Bloomfield, British Electricity History (https://www.britelechist.uoguelph
 1. Dataset of orders placed at the Parsons & Co. company from 1895 to 1924 (client name, client location, order date)
 2. Map of distribution of historic power stations based on Bloomfield's British Electricity History
 
-## Maps Generated
-
-Map visualisation of the Index to the Parsons & Co. Machine Order Book
-<iframe width="100%" height="488" frameborder="0" title="Felt Map" src="https://felt.com/embed/map/Index-to-Parsons-Order-Book-1895-1924-wDo8M65nQMWgOoX9CpcOUhD?loc=18.31%2C22.2%2C2z&legend=1&cooperativeGestures=1&link=1&geolocation=0&zoomControls=1&scaleBar=1" referrerpolicy="strict-origin-when-cross-origin"></iframe>
-
-Map visualisation showing the Parsons Order book datapoints in Newcastle within the context of energy related entries in the Historic Environment Records dataset and the Historic England Listed Buildings dataset
-<iframe width="100%" height="488" frameborder="0" title="Felt Map" src="https://felt.com/embed/map/Parsons-Orders-in-the-Context-of-Historic-England-and-Historic-Environment-Records-datasets-JuokwiI7Ss6UF9BvK3y5prC?loc=54.9717%2C-1.5622%2C11.62z&legend=1&cooperativeGestures=1&link=1&geolocation=0&zoomControls=1&scaleBar=1" referrerpolicy="strict-origin-when-cross-origin"></iframe>
 
 ## Licence 
 This work is licensed under a [Creative Commons Attribution 4.0 License - CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
