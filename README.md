@@ -29,20 +29,28 @@ To what extent was the Parsons & Co. company reliant on orders from the territor
 
 ## Data sources (https://github.com/congruence-engine/mapping-power-stations/tree/main/data)
 
-Historic England Listed Buildings
+- [Historic England Listed Buildings](https://github.com/congruence-engine/mapping-power-stations/blob/main/data/Historic%20England%20-%20Newcastle%20Listed%20Buildings.csv)
 
-Historic Environment Records - via Heritage Gateway
+- [Historic Environment Records - via Heritage Gateway](https://github.com/congruence-engine/mapping-power-stations/blob/main/data/HER%20data%20-%20FISH%20Energy%20terms.csv)
 
-Wikidata
 
-Index to Parsons & Co. Machine Order Book (Tyne & Wear Archives)
+- [Index to Parsons & Co. Machine Order Book (Tyne & Wear Archives)](https://github.com/congruence-engine/mapping-power-stations/blob/main/data/Index%20to%20Parsons%20Order%20Book%20-%201895-1924%20-%2029_11_24.csv)
 
-G. T. Bloomfield, British Electricity History (https://www.britelechist.uoguelph.ca/)
+- [G. T. Bloomfield, British Electricity History](https://www.britelechist.uoguelph.ca/)
+
+- Wikidata
 
 ## Outputs
 
-1. Dataset of orders placed at the Parsons & Co. company from 1895 to 1924 (client name, client location, order date)
+1. [Dataset of orders placed at the Parsons & Co. company from 1895 to 1924 (client name, client location, order date)](https://github.com/congruence-engine/mapping-power-stations/blob/main/data/Index%20to%20Parsons%20Order%20Book%20-%201895-1924%20-%2029_11_24.csv)
+
 2. Map of distribution of historic power stations based on Bloomfield's British Electricity History
+
+3. [Map visualisation of the Index to the Parsons & Co. Machine Order Book](https://felt.com/embed/map/Index-to-Parsons-Order-Book-1895-1924-wDo8M65nQMWgOoX9CpcOUhD?loc=18.31%2C22.2%2C2z&legend=1&cooperativeGestures=1&link=1&geolocation=0&zoomControls=1&scaleBar=1)
+
+
+4. [Map visualisation showing the Parsons Order book datapoints in Newcastle within the context of energy related entries in the Historic Environment Records dataset and the Historic England Listed Buildings dataset](https://felt.com/embed/map/Parsons-Orders-in-the-Context-of-Historic-England-and-Historic-Environment-Records-datasets-JuokwiI7Ss6UF9BvK3y5prC?loc=54.9717%2C-1.5622%2C11.62z&legend=1&cooperativeGestures=1&link=1&geolocation=0&zoomControls=1&scaleBar=1)
+
 
 
 ## Licence 
