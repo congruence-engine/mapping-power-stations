@@ -27,7 +27,7 @@ To what extent was the Parsons & Co. company reliant on orders from the territor
 **Alex Butterworth**: Methodology
 
 
-## Data sources (https://github.com/congruence-engine/mapping-power-stations/tree/main/data)
+## Data sources 
 
 - [Historic England Listed Buildings](https://github.com/congruence-engine/mapping-power-stations/blob/main/data/Historic%20England%20-%20Newcastle%20Listed%20Buildings.csv)
 
