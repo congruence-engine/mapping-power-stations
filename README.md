@@ -1,6 +1,4 @@
-# Mapping power stations
-
-##  Depictions of domestic appliances in magazines and the parallel emergence of gas and electricity as sources of energy
+# Mapping power stations:  Depictions of domestic appliances in magazines and the parallel emergence of gas and electricity as sources of energy
 
 ## Short summary
 The investigation aims to map and identify the locations of power stations across the UK by connecting datasets from various historical collections together. After initial examination of the datasets identified major limitations with their completeness, the work shifted its focus to the material remnants of power generation with links to the Parsons & Co. company (a defining part of Congruence Engine’s partner institutions, Discovery Museum, Newcastle). This led to the identification of a multiple-volume machine order book related the orders of Parsons turbo alternators. We then considered it beneficial for the Museum’s future activities, to aid historians with identifying patterns in the take-up of Parsons turbo alternators, and guide museum practitioners in the identification of Parsons turbo alternators. 
